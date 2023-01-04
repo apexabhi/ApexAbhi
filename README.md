@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hii!!<br>I'm Abhishek Kumar currently pursuing Masters in Computer Applications from USICT.<br>I'm a developer by passion and profession and loves to code.<br>I believe learning is a life-long process and this mindset keeps me motivated to keep learning new stuff related to tech and life.<br>At last a big thank you for having a look at my profile.<br>And if possible give it a star as your small effort can make someone's day special! :)
+Hii!!<br>I'm Abhishek Kumar currently pursuing Masters in Computer Applications from USICT.<br>I'm a developer by passion and profession and loves to code.<br>I believe learning is a life-long process and this mindset keeps me motivated to keep learning new stuff related to tech and life.<br>At last a big thank you for having a look at my profile.<br>And if possible give it a star as your small effort can make someone's day special! :)<br/>
+* Mail me at ***abhi9760733@gmail.com***
 
 
 
